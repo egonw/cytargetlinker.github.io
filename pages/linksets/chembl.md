@@ -1,4 +1,25 @@
 ## ChEMBL linksets
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@type": "CreativeWork",
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE"
+    },
+    "name": "CyTargetLinker ChEMBL 23 (pChEMBL > 6)",
+    "@id": "https://cytargetlinker.github.io/pages/linksets/chembl",
+    "license": "https://www.ebi.ac.uk/about/terms-of-use",
+    "keywords": "ChEMBL, ligand, protein, UniProt, NCBI Gene, Ensembl, HGNC",
+    "url": "https://doi.org/10.5281/zenodo.6500401",
+    "distribution": [ {
+      "@type": "DataDownload",
+      "name": "chembl_23_hsa_20180126.zip",
+      "contentURL": "https://ndownloader.figshare.com/files/21623691?private_link=6cf358aaaaf5adeecce9"
+    } ],
+    "isAccessibleForFree": true
+  }
+</script>
 
 **The ChEMBL database in 2017.<br/>**
 Gaulton A, Hersey A, Nowotka M, Bento AP, Chambers J, Mendez D, Mutowo P, Atkinson F, Bellis LJ, Cibrián-Uhalte E, Davies M, Dedman N, Karlsson A, Magariños MP, Overington JP, Papadatos G, Smit I, Leach AR.<br/>
